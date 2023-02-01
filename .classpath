@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/castor-core-1.4.1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/castor-xml-1.4.1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-beanutils-1.9.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-beanutils-1.9.4-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-beanutils-1.9.4-tests.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-beanutils-1.9.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-digester-2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-digester-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/groovy-3.0.6.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/h2-1.4.200.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/itext-2.1.7.js1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jasperreports-6.17.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jasperreports-chart-customizers-6.17.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jasperreports-fonts-6.17.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jasperreports-functions-6.17.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jasperreports-metadata-6.17.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/spring-1.1.5.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/libreriasProyecto/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/excelLibrerias/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/excelLibrerias/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/excelLibrerias/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/excelLibrerias/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="G:/Mi unidad/Nao/Librerias/excelLibrerias/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/aspose-cells-21.12-java/JDK 1.6/aspose-cells-21.12-java/lib/aspose-cells-21.12.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/aspose-cells-21.12-java/JDK 1.6/aspose-cells-21.12-java/lib/bcpkix-jdk15on-1.60.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/aspose-cells-21.12-java/JDK 1.6/aspose-cells-21.12-java/lib/bcprov-jdk15on-1.60.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

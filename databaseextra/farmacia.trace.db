@@ -1,0 +1,12 @@
+2021-11-26 18:23:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ADMIN" no encontrada
+Table "ADMIN" not found; SQL statement:
+select *  from admin [42102-200]
+2021-11-26 18:23:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTO" no encontrada
+Table "PRODUCTO" not found; SQL statement:
+select *  from producto [42102-200]
+2021-11-26 18:24:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ADMINISTRADOR" no encontrada
+Table "ADMINISTRADOR" not found; SQL statement:
+select *  from administrador [42102-200]
